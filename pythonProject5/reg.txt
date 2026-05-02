@@ -1,0 +1,10 @@
+imageai
+keras==2.12.0
+tensorflow==2.12.0
+opencv-python
+numpy
+Pillow
+pyTelegramBotAPI
+torch
+torchvision
+torchaudio
